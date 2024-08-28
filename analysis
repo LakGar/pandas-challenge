@@ -1,0 +1,15 @@
+Summary of the Analysis:
+Our analysis examined the performance of schools across various metrics, including average math and reading scores, percentage of students passing math and reading, and overall passing rates. We categorized schools based on spending per student, school size, and school type (Charter vs. District). These categorizations allowed us to understand how different factors influence academic outcomes across the district.
+
+Conclusions:
+Impact of Spending on Student Performance:
+
+Conclusion: Schools with lower spending per student generally perform better in terms of math and reading scores, as well as overall passing rates. For instance, schools in the lowest spending category (<$585) had the highest average math scores (83.46) and reading scores (83.93), with 90.37% overall passing. Conversely, schools with spending in the highest range ($645-$680) had lower average math (76.99) and reading scores (81.03), and a significantly lower overall passing rate of 53.53%. This indicates that increased spending does not always correlate with improved performance, especially at higher spending levels, where diminishing returns may occur.
+
+Comparison of School Types (Charter vs. District):
+
+Conclusion: Charter schools consistently outperform District schools across all measured metrics. Charter schools have a higher average math score (83.47) and reading score (83.90) compared to District schools, which have average scores of 76.96 in math and 80.97 in reading. Additionally, the overall passing rate in Charter schools is significantly higher (90.43%) compared to District schools (53.67%). This suggests that Charter schools may have more effective educational practices or resources that contribute to better student outcomes.
+
+School Size and Academic Outcomes:
+
+Conclusion: Smaller schools tend to perform better academically compared to larger schools. Small schools (<1000 students) had the highest average math score (83.82) and reading score (83.93), along with a 93.55% passing rate in math and 96.10% in reading. In contrast, large schools (2000-5000 students) had much lower average math scores (77.75) and reading scores (81.34), with only 58.29% of students overall passing. This trend suggests that smaller schools may benefit from more personalized instruction and lower student-to-teacher ratios, leading to better academic performance.
